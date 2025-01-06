@@ -1,1 +1,0 @@
-# technical_specifications_document_management_system
